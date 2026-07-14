@@ -1,0 +1,636 @@
+[
+    {
+        "title": "A Reaper at the Gates",
+        "author": "Sabaa Tahir",
+        "genre": [
+            "YA",
+            "Fantasy",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "Steelstriker",
+        "author": "Marie Lu",
+        "genre": [
+            "YA",
+            "Fantasy",
+            "Adventure"
+        ]
+    },
+    {
+        "authors": "Honour Rae",
+        "id": 106,
+        "tags": [
+            "Fantasy",
+            "Young Adult",
+            "Adventure"
+        ],
+        "title": "All the Skills 1: All the Skills"
+    },
+    {
+        "authors": "James Islington",
+        "id": 107,
+        "tags": [],
+        "title": "The Will of the Many"
+    },
+    {
+        "authors": "Joelle Charbonneau",
+        "id": 108,
+        "tags": [],
+        "title": "The Testing Trilogy"
+    },
+    {
+        "authors": "Mark Frost",
+        "id": 109,
+        "tags": [
+            "Speculative"
+        ],
+        "title": "The Paladin Prophecy"
+    },
+    {
+        "authors": "Mullin, Mike",
+        "id": 110,
+        "tags": [],
+        "title": "Ashen Winter"
+    },
+    {
+        "authors": "Mark Frost",
+        "id": 111,
+        "tags": [
+            "Fantasy",
+            "Young Adult",
+            "Science Fiction"
+        ],
+        "title": "The Paladin Prophecy: Alliance"
+    },
+    {
+        "authors": "Jennifer A. Nielsen",
+        "id": 112,
+        "tags": [
+            "Action & Adventure",
+            "General",
+            "David_James Mobilism.org",
+            "Juvenile Fiction"
+        ],
+        "title": "The False Prince"
+    },
+    {
+        "authors": "Patrick Ness",
+        "id": 113,
+        "tags": [
+            "Science Fiction",
+            "Fiction",
+            "General",
+            "Juvenile Fiction",
+            "Fantasy & Magic",
+            "Social Issues",
+            "Children's Books - Young Adult Fiction",
+            "Space Colonies",
+            "Science Fiction; Fantasy; Magic",
+            "Friendship",
+            "Children: Young Adult (Gr. 10-12)",
+            "Violence",
+            "Law & Crime",
+            "Social problems",
+            "Social Issues - Violence"
+        ],
+        "title": "The Ask and the Answer"
+    },
+    {
+        "authors": "Mike Mullin",
+        "id": 114,
+        "tags": [],
+        "title": "Sunrise (Ashfall Trilogy)"
+    },
+    {
+        "authors": "Stephen King",
+        "id": 116,
+        "tags": [
+            "Fiction",
+            "General",
+            "Horror",
+            "Horror & Ghost Stories",
+            "Ghost"
+        ],
+        "title": "The Dead Zone"
+    },
+    {
+        "authors": "Suzanne Collins",
+        "id": 117,
+        "tags": [],
+        "title": "Hunger Games 2 - Catching Fire"
+    },
+    {
+        "authors": "Orson Scott Card",
+        "id": 118,
+        "tags": [
+            "Science Fiction/Fantasy"
+        ],
+        "title": "Ender's Game"
+    },
+    {
+        "authors": "Will Wight",
+        "id": 119,
+        "tags": [
+            "A Dungeon Core Experience",
+            "Romance",
+            "GameLit",
+            "HaremLit",
+            "Lgbtq+",
+            "Gay",
+            "Science",
+            "Fiction",
+            "Fantasy",
+            "Paranormal",
+            "Urban",
+            "Young Adult Fantasy"
+        ],
+        "title": "Cradle 11: Dreadgod"
+    },
+    {
+        "authors": "Will Wight",
+        "id": 120,
+        "tags": [
+            "A Dungeon Core Experience",
+            "Romance",
+            "GameLit",
+            "HaremLit",
+            "Lgbtq+",
+            "Gay",
+            "Science",
+            "Fiction",
+            "Fantasy",
+            "Paranormal",
+            "Urban",
+            "Young Adult Fantasy"
+        ],
+        "title": "Cradle 9: Bloodline"
+    },
+    {
+        "authors": "Bryce O'Connor & Luke Chmilenko",
+        "id": 121,
+        "tags": [],
+        "title": "Iron Prince: A Progression Sci-Fi Epic (Warformed: Stormweaver Book 1)"
+    },
+    {
+        "authors": "Wight, Will",
+        "id": 122,
+        "tags": [
+            "Cultivation/Progression"
+        ],
+        "title": "C-03. Blackflame"
+    },
+    {
+        "authors": "Mike Mullin",
+        "id": 123,
+        "tags": [
+            "thriller"
+        ],
+        "title": "Ashfall"
+    },
+    {
+        "authors": "Stephen King",
+        "id": 124,
+        "tags": [
+            "sf_history"
+        ],
+        "title": "11/22/63: A Novel"
+    },
+    {
+        "authors": "Shay Savage",
+        "id": 126,
+        "tags": [],
+        "title": "Win Some, Lose Some"
+    },
+    {
+        "authors": "Suzanne Collins",
+        "id": 128,
+        "tags": [],
+        "title": "The Ballad of Songbirds and Snakes (A Hunger Games Novel) (The Hunger Games)"
+    },
+    {
+        "authors": "Cory ANDERSON",
+        "id": 129,
+        "tags": [
+            "Roman \u00e9tranger"
+        ],
+        "title": "Le fracas et le silence"
+    },
+    {
+        "authors": "Will Wight",
+        "id": 130,
+        "tags": [],
+        "title": "Ghostwater (Cradle Book 5)"
+    },
+    {
+        "authors": "Pierce Brown",
+        "id": 131,
+        "tags": [
+            "Fiction"
+        ],
+        "title": "Golden Son"
+    },
+    {
+        "authors": "J.K. Rowling",
+        "id": 132,
+        "tags": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+    },
+    {
+        "authors": "Alex Maher",
+        "id": 133,
+        "tags": [],
+        "title": "The Hedge Wizard: A LitRPG/GameLit Adventure"
+    },
+    {
+        "authors": "Shirtaloon",
+        "id": 134,
+        "tags": [],
+        "title": "He Who Fights with Monsters: A LitRPG Adventure"
+    },
+    {
+        "authors": "Suzanne Collins",
+        "id": 135,
+        "tags": [],
+        "title": "The Hunger Games (Hunger Games Trilogy, Book 1)"
+    },
+    {
+        "authors": "Stephen King",
+        "id": 136,
+        "tags": [
+            "HORREUR-SUSPENSE"
+        ],
+        "title": "L'Institut"
+    },
+    {
+        "authors": "John Bierce",
+        "id": 137,
+        "tags": [],
+        "title": "Into The Labyrinth: Mage Errant Book 1"
+    },
+    {
+        "authors": "Patrick Ness",
+        "id": 138,
+        "tags": [],
+        "title": "The Knife of Never Letting Go"
+    },
+    {
+        "authors": "James Dashner",
+        "id": 139,
+        "tags": [
+            "Adolescents",
+            "Amn\u00e9sie",
+            "Enfermement",
+            "Courage",
+            "Souvenirs",
+            "Labyrinthe"
+        ],
+        "title": "Le Labyrinthe"
+    },
+    {
+        "authors": "Brian J. Nordon",
+        "id": 140,
+        "tags": [],
+        "title": "Legions (Quest Academy Book 5)"
+    },
+    {
+        "authors": "King,Stephen",
+        "id": 141,
+        "tags": [
+            "Anticipation"
+        ],
+        "title": "Marche ou cr\u00e8ve"
+    },
+    {
+        "authors": "J.M. Clarke",
+        "id": 142,
+        "tags": [],
+        "title": "Mark of the Fool: A Progression Fantasy Epic"
+    },
+    {
+        "authors": "Brandon Sanderson",
+        "id": 143,
+        "tags": [
+            "General",
+            "Fantasy",
+            "Fiction",
+            "Fantasy fiction",
+            "Epic",
+            "Fantasy - Epic",
+            "Magic",
+            "American Science Fiction And Fantasy",
+            "Fiction - Fantasy",
+            "Women revolutionaries",
+            "Despotism",
+            "Courts and courtiers"
+        ],
+        "title": "Mistborn: The Final Empire"
+    },
+    {
+        "authors": "Patrick Ness",
+        "id": 144,
+        "tags": [],
+        "title": "Monsters of Men"
+    },
+    {
+        "authors": "Pierce Brown",
+        "id": 145,
+        "tags": [
+            "Literature & Fiction",
+            "United States",
+            "Science Fiction & Fantasy",
+            "Science Fiction",
+            "Adventure",
+            "Colonization",
+            "Dystopian",
+            "Galactic Empire",
+            "Hard Science Fiction"
+        ],
+        "title": "Morning Star: Book III of the Red Rising Trilogy"
+    },
+    {
+        "authors": "nobody103 & Domagoj Kurmaic",
+        "id": 146,
+        "tags": [],
+        "title": "Mother of Learning: ARC 1"
+    },
+    {
+        "authors": "nobody103 & Domagoj Kurmaic",
+        "id": 147,
+        "tags": [],
+        "title": "Mother of Learning: ARC 3"
+    },
+    {
+        "authors": "nobody103 & Domagoj Kurmaic",
+        "id": 148,
+        "tags": [],
+        "title": "Mother of Learning: ARC 2"
+    },
+    {
+        "authors": "Patrick Rothfuss",
+        "id": 149,
+        "tags": [],
+        "title": "The Name of the Wind"
+    },
+    {
+        "authors": "Scott Reintgen",
+        "id": 150,
+        "tags": [],
+        "title": "Nyxia"
+    },
+    {
+        "authors": "Andy Weir;",
+        "id": 151,
+        "tags": [],
+        "title": "Project Hail Mary: A Novel"
+    },
+    {
+        "authors": "Brian J. Nordon",
+        "id": 152,
+        "tags": [],
+        "title": "Quest Academy: Legacies"
+    },
+    {
+        "authors": "Brian J. Nordon",
+        "id": 153,
+        "tags": [],
+        "title": "Quest Academy: Saviors"
+    },
+    {
+        "authors": "Brian J. Nordon",
+        "id": 154,
+        "tags": [],
+        "title": "Quest Academy: Silvers"
+    },
+    {
+        "authors": "Brian J Nordon",
+        "id": 155,
+        "tags": [],
+        "title": "Quest Academy: Scavengers"
+    },
+    {
+        "authors": "Will Wight",
+        "id": 156,
+        "tags": [],
+        "title": "Reaper (Cradle Book 10)"
+    },
+    {
+        "authors": "Pierce Brown",
+        "id": 157,
+        "tags": [
+            "Fiction"
+        ],
+        "title": "Red Rising"
+    },
+    {
+        "authors": "Neal Shusterman",
+        "id": 159,
+        "tags": [],
+        "title": "Scythe"
+    },
+    {
+        "authors": "Will Wight",
+        "id": 160,
+        "tags": [],
+        "title": "Skysworn (Cradle Book 4)"
+    },
+    {
+        "authors": "Wight,Will",
+        "id": 161,
+        "tags": [],
+        "title": "Soulsmith (Cradle Book 2)"
+    },
+    {
+        "authors": "Suzanne Collins",
+        "id": 162,
+        "tags": [],
+        "title": "Sunrise on the Reaping"
+    },
+    {
+        "authors": "Neal Shusterman",
+        "id": 163,
+        "tags": [],
+        "title": "Thunderhead"
+    },
+    {
+        "authors": "Neal Shusterman",
+        "id": 164,
+        "tags": [],
+        "title": "The Toll"
+    },
+    {
+        "authors": "John Marsden",
+        "id": 165,
+        "tags": [],
+        "title": "Tomorrow 1 - When The War Began"
+    },
+    {
+        "authors": "Will Wight",
+        "id": 166,
+        "tags": [],
+        "title": "Uncrowned (Cradle Book 7)"
+    },
+    {
+        "authors": "Will Wight",
+        "id": 167,
+        "tags": [],
+        "title": "Underlord (Cradle Book 6)"
+    },
+    {
+        "authors": "Will Wight",
+        "id": 168,
+        "tags": [],
+        "title": "Unsouled (Cradle Book 1)"
+    },
+    {
+        "authors": "Zamzar",
+        "id": 169,
+        "tags": [],
+        "title": "Variant"
+    },
+    {
+        "authors": "Will Wight",
+        "id": 170,
+        "tags": [],
+        "title": "Waybound"
+    },
+    {
+        "authors": "Evan Winter",
+        "id": 171,
+        "tags": [],
+        "title": "Winter, Evan - The Burning 02 - The Fires of Vengeance"
+    },
+    {
+        "authors": "Will Wight",
+        "id": 172,
+        "tags": [],
+        "title": "Wintersteel (Cradle Book 8)"
+    },
+    {
+        "authors": "Shannon Messenger",
+        "id": 173,
+        "tags": [],
+        "title": "Keeper of the Lost Cities"
+    },
+    {
+        "authors": "Lisa McMann",
+        "id": 174,
+        "tags": [],
+        "title": "The Unwanteds"
+    },
+    {
+        "authors": "Mary Monroe",
+        "id": 175,
+        "tags": [],
+        "title": "Over the Fence"
+    },
+    {
+        "authors": "Suzanne Collins",
+        "id": 176,
+        "tags": [],
+        "title": "Mockingjay"
+    },
+    {
+        "authors": "TurtleMe",
+        "id": 177,
+        "tags": [],
+        "title": "The Beginning After The End - Early Years"
+    },
+    {
+        "authors": "John Schember",
+        "id": 179,
+        "tags": [],
+        "title": "Quick Start Guide"
+    },
+    {
+        "authors": "Jessica Townsend",
+        "id": 181,
+        "tags": [],
+        "title": "Hollowpox: The Hunt for Morrigan Crow: Nevermoor 3"
+    },
+    {
+        "authors": "Jessica Townsend",
+        "id": 182,
+        "tags": [],
+        "title": "Silverborn"
+    },
+    {
+        "authors": "Scott Reintgen",
+        "id": 183,
+        "tags": [],
+        "title": "Nyxia Unleashed"
+    },
+    {
+        "authors": "Scott Reintgen",
+        "id": 184,
+        "tags": [],
+        "title": "Nyxia Uprising"
+    },
+    {
+        "authors": "D. King-Smith",
+        "id": 185,
+        "tags": [
+            "https://archive.org/details/harryestfou0000dkin"
+        ],
+        "title": "Harry est fou"
+    },
+    {
+        "authors": "Unknown",
+        "id": 186,
+        "tags": [],
+        "title": "The Mysterious Benedixt Society"
+    },
+    {
+        "authors": "Pierre Bottero",
+        "id": 187,
+        "tags": [],
+        "title": "La Quete d' Ewilan d'un monde a l'autre"
+    },
+    {
+        "authors": "Margaret Peterson Haddix & Cliff Nielsen",
+        "id": 188,
+        "tags": [
+            "Fiction",
+            "General",
+            "Family",
+            "Action & Adventure",
+            "Juvenile Fiction",
+            "Fantasy & Magic",
+            "Science Fiction",
+            "Secrets",
+            "Social Isolation",
+            "Computers",
+            "Braille Books",
+            "Fellowship",
+            "Mysteries & Detective Stories",
+            "Demography",
+            "Social Science",
+            "Population"
+        ],
+        "title": "Among the Hidden"
+    },
+    {
+        "authors": "Andy Marino",
+        "id": 189,
+        "tags": [],
+        "title": "The Escape"
+    },
+    {
+        "authors": "Andy Marino",
+        "id": 190,
+        "tags": [],
+        "title": "The Execution"
+    },
+    {
+        "authors": "J.K. Rowling",
+        "id": 191,
+        "tags": [],
+        "title": "Harry Potter and the Deathly Hallows"
+    },
+    {
+        "authors": "Andy Marino",
+        "id": 192,
+        "tags": [],
+        "title": "Conspiracy"
+    }
+]
