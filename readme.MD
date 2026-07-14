@@ -1,4 +1,4 @@
-BookTracker V2
+##BookTracker V2
 
 Booktracker/manager is a python project that is meant to be able to keep books that the user has 
 manually entered or selected from an open library api.
